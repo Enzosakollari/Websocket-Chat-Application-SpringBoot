@@ -35,7 +35,8 @@ Here are some screenshots of the application:
 
 ![Login Window](https://github.com/Enzosakollari/Websocket-Chat-Application-SpringBoot/blob/master/Screenshot%202026-01-17%20215341.png)
 
-![Chat Interface](https://example.com/chat-interface.png) <!-- Replace with your actual image URL -->
+### 💬 Chat Window
+![Chat Window](https://github.com/Enzosakollari/Websocket-Chat-Application-SpringBoot/raw/master/Screenshot%202026-01-17%20215427.png)
 
 ---
 
